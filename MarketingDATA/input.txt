@@ -1,0 +1,18 @@
+milk coffee bread
+beer whisky rum
+whisky coffee
+milk bread
+bread rum
+rum 
+milk
+milk beer
+beer whisky milk 
+milk coffee rum
+rum bread milk
+milk rum bread coffee
+coffee bread milk rum 
+bread milk whisky
+whisky beer rum
+beer coffee whisky
+beer rum
+rum whisky
